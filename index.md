@@ -18,6 +18,6 @@ When completed, the Manoa Grindz app will eventually provide menus of all food l
 
 # Mockup Pages
 
-Below is our mockup landing page: 
+Below is our mockup directory page: 
 
 ![](images/mockupPage.png)

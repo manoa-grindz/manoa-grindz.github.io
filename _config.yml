@@ -1,1 +1,8 @@
+title: Manoa Grindz
+description: Food directory for the UH Manoa campus
+google_analytics: 
+show_downloads: false
 theme: jekyll-theme-slate
+
+gems:
+  - jekyll-mentions

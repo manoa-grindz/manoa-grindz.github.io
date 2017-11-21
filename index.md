@@ -8,9 +8,9 @@
 
 Manoa Grindz is an app that allows students to find food around the UH Manoa campus. Whether it be food trucks, vending machines, or the many other food locations on campus, Manoa Grindz is your one stop app to find food that caters to your specific tastes. 
 
-* Github Organization: https://github.com/manoa-grindz
+* [Github Organization](https://github.com/manoa-grindz)
 
-* Galaxy Deployment of App: http://manoa-grindz.meteorapp.com/
+* [Galaxy Deployment of App](http://manoa-grindz.meteorapp.com/)
 
 # Project Goals
 

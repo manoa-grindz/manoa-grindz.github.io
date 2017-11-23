@@ -33,14 +33,14 @@ When completed, the Manoa Grindz app will eventually provide menus of all food l
 
 
 
-* [Browsing Page](http://manoa-grindz.meteorapp.com/browse)
+* [Browse Page](http://manoa-grindz.meteorapp.com/browse)
  
 ![](images/browse.png)
 
 
 
 
-* [Today's Pick's Page](http://manoa-grindz.meteorapp.com/today)
+* [Today's Picks Page](http://manoa-grindz.meteorapp.com/today)
  
 ![](images/todayspicks.png)
 

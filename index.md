@@ -47,7 +47,7 @@ When completed, the Manoa Grindz app will eventually provide menus of all food l
 
 
 
-* [Event's Page](http://manoa-grindz.meteorapp.com/events)
+* [Events Page](http://manoa-grindz.meteorapp.com/events)
 
 ![](images/events.png)
 

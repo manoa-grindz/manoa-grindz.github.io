@@ -30,7 +30,7 @@ When completed, the Manoa Grindz app will eventually provide menus of all food l
 
 ![](images/landing.png)
 
-
+__________________________________________________________________________________________________________________________________________
 
 
 * [Browse Page](http://manoa-grindz.meteorapp.com/browse)
@@ -38,6 +38,7 @@ When completed, the Manoa Grindz app will eventually provide menus of all food l
 ![](images/browse.png)
 
 
+__________________________________________________________________________________________________________________________________________
 
 
 * [Today's Picks Page](http://manoa-grindz.meteorapp.com/today)
@@ -45,6 +46,7 @@ When completed, the Manoa Grindz app will eventually provide menus of all food l
 ![](images/todayspicks.png)
 
 
+__________________________________________________________________________________________________________________________________________
 
 
 * [Events Page](http://manoa-grindz.meteorapp.com/events)

@@ -24,8 +24,23 @@ With the Monoa Grindz app, we hope to provide UH students with a way to easily f
 When completed, the Manoa Grindz app will eventually provide menus of all food locations on campus as well as ways to search and sort through these menus based on food types (ethnicity, vegan, etc). We also expect to add various features that allow for users to rate food and view top rated food around campus. 
 
 
-# Mockup Pages
+# Up-To-Date Mockup Pages
 
-Below is our mockup directory page: 
+[Landing Page](http://manoa-grindz.meteorapp.com/)
 
-![](images/mockupPage.png)
+![](images/landing.png)
+
+
+ [Browsing Page](http://manoa-grindz.meteorapp.com/)
+ 
+![](images/browse.png)
+
+
+ [Today's Pick's Page](http://manoa-grindz.meteorapp.com/)\
+ 
+![](images/todayspicks.png)
+
+
+[Event's Page](http://manoa-grindz.meteorapp.com/)
+
+![](images/events.png)

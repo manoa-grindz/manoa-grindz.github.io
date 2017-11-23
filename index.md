@@ -2,7 +2,7 @@
 
 * [About Manoa Grindz](#about-manoa-grindz)
 * [Project Goals](#project-goals)
-* [Mockup Pages](#mockup-pages)
+* [Up-To-Date Mockup Pages](#up--=to---date-mockup-pages)
 
 # About Manoa Grindz
 

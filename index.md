@@ -26,28 +26,28 @@ When completed, the Manoa Grindz app will eventually provide menus of all food l
 
 # Up-To-Date Mockup Pages
 
-[Landing Page](http://manoa-grindz.meteorapp.com/)
+* [Landing Page](http://manoa-grindz.meteorapp.com/)
 
 ![](images/landing.png)
 
 
 
 
- [Browsing Page](http://manoa-grindz.meteorapp.com/browse)
+* [Browsing Page](http://manoa-grindz.meteorapp.com/browse)
  
 ![](images/browse.png)
 
 
 
 
- [Today's Pick's Page](http://manoa-grindz.meteorapp.com/today)
+* [Today's Pick's Page](http://manoa-grindz.meteorapp.com/today)
  
 ![](images/todayspicks.png)
 
 
 
 
-[Event's Page](http://manoa-grindz.meteorapp.com/events)
+* [Event's Page](http://manoa-grindz.meteorapp.com/events)
 
 ![](images/events.png)
 

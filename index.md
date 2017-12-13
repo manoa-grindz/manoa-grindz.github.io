@@ -28,15 +28,16 @@ When completed, the Manoa Grindz app will eventually provide menus of all food l
 
 # User Guide
 
-When you first come to the Manoa-Grindz website, you will be greeted by the following landing page: 
+When you first come to the Manoa Grindz website, you will be greeted by the following landing page: 
 
-
-
-* [Landing Page](http://manoa-grindz.meteorapp.com/)
 
 ![](images/landing.png)
 <br />
 <br />
+The landing page will provide you with a general introduction on what Manoa Grindz is all about. Anyone with a UH account can login to Manoa Grindz by clicking on the login button. The UH CAS authentication screen then appears and requests your UH account and password:
+
+
+
 * [Browse Page](http://manoa-grindz.meteorapp.com/browse)
  
 ![](images/browse.png)

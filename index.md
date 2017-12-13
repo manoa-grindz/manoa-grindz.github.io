@@ -49,7 +49,12 @@ Manoa Grindz also provides a Today's Picks page, where you can view a selection 
 <br />
 <br />
 ![](images/events.png)
-
+<br />
+<br />
+If you visit the Events page using the navigation bar on the top of your screen, you will be able to view a list of current and upcoming UH Manao food events. 
+<br />
+<br />
+![](images/events.png)
 
 # Community Feedback
 

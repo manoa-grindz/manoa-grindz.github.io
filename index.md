@@ -27,9 +27,8 @@ When completed, the Manoa Grindz app will eventually provide menus of all food l
 
 
 # User Guide
-<br />
 When you first come to the Manoa Grindz website, you will be greeted by the following landing page: 
-
+<br />
 
 ![](images/landing.png)
 <br />

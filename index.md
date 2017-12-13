@@ -45,6 +45,12 @@ Once authenticated, you will be taken to the Browse page, where you can search t
 ![](images/browse.png)
 <br />
 <br />
+Manoa Grindz allows you to create your own profile once you are logged in with your UH account. By clicking the icon to the left of the login/logout button, you can 
+<br />
+<br />
+![](images/login.png)
+<br />
+<br />
 Manoa Grindz also provides a Today's Picks page, where you can view a selection of the top current food choices for the day. 
 <br />
 <br />
@@ -61,7 +67,6 @@ Manoa Grindz also offers a way for restaurant owners to add their own food locat
 <br />
 <br />
 ![](images/events.png)
-
 
 
 # Community Feedback

@@ -42,9 +42,8 @@ The landing page will provide you with a general introduction on what Manoa Grin
 <br />
 <br />
 Once authenticated, you will be taken to the Browse page, where you can search through a list of supported UH Manoa food locations and filter out locations based on your food preferences. 
-
-
-
+<br />
+<br />
  
 ![](images/browse.png)
 

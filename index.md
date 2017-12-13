@@ -12,7 +12,7 @@
 
 * [Galaxy Deployment of App](http://manoa-grindz.meteorapp.com/)
 
-Manoa Grindz is an app that allows students to find food around the UH Manoa campus. Whether it be food trucks, vending machines, or the many other food locations on campus, Manoa Grindz is your one stop app to find food that caters to your specific tastes. 
+Manoa Grindz is a Meteor application that allows students to find food around the UH Manoa campus. Whether it be food trucks, vending machines, or the many other food locations on campus, Manoa Grindz is your one stop app to find food that caters to your specific tastes. 
 
 
 # Project Goals
@@ -27,6 +27,10 @@ When completed, the Manoa Grindz app will eventually provide menus of all food l
 
 
 # User Guide
+
+When you first come to the Manoa-Grindz website, you will be greeted by the following landing page: 
+
+
 
 * [Landing Page](http://manoa-grindz.meteorapp.com/)
 

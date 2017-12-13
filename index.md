@@ -35,21 +35,19 @@ When you first come to the Manoa Grindz website, you will be greeted by the foll
 <br />
 The landing page will provide you with a general introduction on what Manoa Grindz is all about. Anyone with a UH account can login to Manoa Grindz by clicking on the login button. The UH CAS authentication screen then appears and requests your UH account and password:
 
-
- 
 ![](images/login.png)
+<br />
 <br />
 Once authenticated, you will be taken to the Browse page, where you can search through a list of supported UH Manoa food locations and filter out locations based on your food preferences. 
 <br />
 <br />
  
 ![](images/browse.png)
-
 <br />
 <br />
-
-* [Events Page](http://manoa-grindz.meteorapp.com/events)
-
+Manoa Grindz also provides a Today's Picks page, where you can view a selection of the top current food choices for the day. 
+<br />
+<br />
 ![](images/events.png)
 
 

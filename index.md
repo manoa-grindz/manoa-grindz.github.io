@@ -37,7 +37,7 @@ The landing page will provide you with a general introduction on what Manoa Grin
 
 
  
-![](images/browse.png)
+![](images/login.png)
 
 <br />
 <br />

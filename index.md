@@ -38,7 +38,7 @@ The landing page will provide you with a general introduction on what Manoa Grin
 ![](images/login.png)
 <br />
 <br />
-Once authenticated, you will be taken to the Browse page, where you can search through a list of supported UH Manoa food locations and filter out locations based on your food preferences. 
+Once authenticated, you will be taken to the Browse page, where you can search through a list of supported UH Manoa food locations and filter out locations based on your food preferences. You can also click on the the different food locations to view more information about that particular place or learn more about the food selections they offer. 
 <br />
 <br />
  
@@ -51,10 +51,18 @@ Manoa Grindz also provides a Today's Picks page, where you can view a selection 
 ![](images/events.png)
 <br />
 <br />
-If you visit the Events page using the navigation bar on the top of your screen, you will be able to view a list of current and upcoming UH Manao food events. 
+If you visit the Events page using the navigation bar on the top of your screen, you will be able to view a list of current and upcoming UH Manao food events. You can search through the list and click on the different food events to learn more about it. 
 <br />
 <br />
 ![](images/events.png)
+<br />
+<br />
+Manoa Grindz also offers a way for restaurant owners to add their own food locations into our site. By visiting the Add Restaurant page, you can 
+<br />
+<br />
+![](images/events.png)
+
+
 
 # Community Feedback
 

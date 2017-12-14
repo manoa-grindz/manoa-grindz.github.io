@@ -45,7 +45,7 @@ Once authenticated, you will be taken to the Browse page, where you can search t
 ![](images/browse.png)
 <br />
 <br />
-Manoa Grindz allows you to create your own profile once you are logged in with your UH account. By clicking the icon to the left of the login/logout button, you can create a profile by entering your name and selecting your different food preferences from the drop-down menu. You can also add a picture to your profile or even write a short bio about yourself:  
+Manoa Grindz allows you to create your own profile once you are logged in with your UH account. By clicking the icon to the left of the logout button, you can create a profile by entering your name and selecting your different food preferences from the drop-down menu. You can also add a picture to your profile or even write a short bio about yourself:  
 <br />
 <br />
 ![](images/login.png)

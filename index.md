@@ -79,13 +79,13 @@ Part way through the development of our application, we requested the help of fi
 - Great idea for an app. People would definitely use it. 
 - Color scheme is nice
 
-<br />
 ### Con's
-Not enough restaurant selection
--Landing page is ugly
-
-
-
+- Not enough restaurant selection
+- Landing page is ugly
+- Events page needs more work done to it. 
+- Website looks too blank. Too much white space. 
+- Profile page is pointless. There doesn't seem to be a need for it. 
+- Not enough food selections. 
 
 
 

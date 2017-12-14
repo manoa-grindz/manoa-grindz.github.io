@@ -38,26 +38,26 @@ The landing page will provide you with a general introduction on what Manoa Grin
 ![](images/login.png)
 <br />
 <br />
-Once authenticated, you will be taken to the Browse page, where you can search through a list of supported UH Manoa food locations and filter out locations based on your food preferences. You can also click on the the different food locations to view more information about that particular place or learn more about the food selections they offer. 
+Once authenticated, you will be taken to the Browse page, where you can search through a list of supported UH Manoa food locations and filter out locations based on your food preferences. You can also click on the the different food locations to view more information about that particular place or learn more about the food selections they offer:
 <br />
 <br />
  
 ![](images/browse.png)
 <br />
 <br />
-Manoa Grindz allows you to create your own profile once you are logged in with your UH account. By clicking the icon to the left of the login/logout button, you can 
+Manoa Grindz allows you to create your own profile once you are logged in with your UH account. By clicking the icon to the left of the login/logout button, you can create a profile by entering your name and selecting your different food preferences from the drop-down menu. You can also add a picture to your profile or even write a short bio about yourself:  
 <br />
 <br />
 ![](images/login.png)
 <br />
 <br />
-Manoa Grindz also provides a Today's Picks page, where you can view a selection of the top current food choices for the day. 
+Manoa Grindz also provides a Today's Picks page, where you can view a selection of the top current food choices for the day: 
 <br />
 <br />
 ![](images/events.png)
 <br />
 <br />
-If you visit the Events page using the navigation bar on the top of your screen, you will be able to view a list of current and upcoming UH Manao food events. You can search through the list and click on the different food events to learn more about it. 
+If you visit the Events page using the navigation bar on the top of your screen, you will be able to view a list of current and upcoming UH Manao food events. You can search through the list and click on the different food events to learn more about it:
 <br />
 <br />
 ![](images/events.png)

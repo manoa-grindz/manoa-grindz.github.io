@@ -111,7 +111,7 @@ The following developer guide will guide a user through the process of downloadi
 
 First, [install Meteor](https://www.meteor.com/install).
 
-Second, [download a copy of BowFolios](https://github.com/bowfolios/bowfolios/archive/master.zip), or clone it using git.
+Second, [download a copy of Manoa Grindz](https://github.com/manoa-grindz/manoa-grindz/archive/master.zip), or clone it using git.
   
 Third, cd into the app/ directory and install libraries with:
 

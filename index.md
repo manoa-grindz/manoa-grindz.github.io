@@ -107,7 +107,7 @@ Part way through the development of our application, we requested the help of fi
 <br />
 The following developer guide will guide a user through the process of downloading, installing, running, and modifying the system.
 
-# Installation
+## Installation
 
 First, [install Meteor](https://www.meteor.com/install).
 
@@ -127,9 +127,9 @@ $ meteor npm run start
 
 If all goes well, the application will appear at [http://localhost:3000](http://localhost:3000). If you have an account on the UH test CAS server, you can login.  
 
-# Application Design
+## Application Design
 
-## Directory structure
+### Directory structure
 
 The top-level directory structure contains:
 
@@ -175,7 +175,7 @@ server/
    main.js       # import all the server-side js files.
 ```
 
-## Import conventions
+### Import conventions
 
 This system adheres to the Meteor 1.4 guideline of putting all application code in the imports/ directory, and using client/main.js and server/main.js to import the code appropriate for the client and server in an appropriate order.
 
@@ -209,7 +209,7 @@ We use this approach to make it more simple to understand what code is loaded an
 
 Note that this two-level import structure ensures that all code and templates are loaded, but does not ensure that the symbols needed in a given file are accessible.  So, for example, a symbol bound to a collection still needs to be imported into any file that references it. 
  
-## Naming conventions
+### Naming conventions
 
 This system adopts the following naming conventions:
 
@@ -220,7 +220,7 @@ This system adopts the following naming conventions:
   * Routes to pages are named the same as their corresponding page. Example: Directory_Page.
 
 
-## Data model
+### Data model
 
 The BowFolios data model is implemented by two Javascript classes: [ProfileCollection](https://github.com/bowfolios/bowfolios/blob/master/app/imports/api/profile/ProfileCollection.js) and [InterestCollection](https://github.com/bowfolios/bowfolios/blob/master/app/imports/api/interest/InterestCollection.js). Both of these classes encapsulate a MongoDB collection with the same name and export a single variable (Profiles and Interests)that provides access to that collection. 
 
@@ -232,7 +232,7 @@ The [BaseUtilities](https://github.com/bowfolios/bowfolios/blob/master/app/impor
 
 Both ProfileCollection and InterestCollection have Mocha unit tests in [ProfileCollection.test.js](https://github.com/bowfolios/bowfolios/blob/master/app/imports/api/profile/ProfileCollection.test.js) and [InterestCollection.test.js](https://github.com/bowfolios/bowfolios/blob/master/app/imports/api/interest/InterestCollection.test.js). See the section below on testing for more details.
 
-## CSS
+### CSS
 
 The application uses the [Semantic UI](http://semantic-ui.com/) CSS framework. To learn more about the Semantic UI theme integration with Meteor, see [Semantic-UI-Meteor](https://github.com/Semantic-Org/Semantic-UI-Meteor).
 
@@ -240,7 +240,7 @@ The Semantic UI theme files are located in [app/client/lib/semantic-ui](https://
 
 Note that the user pages contain a menu fixed to the top of the page, and thus the body element needs to have padding attached to it.  However, the landing page does not have a menu, and thus no padding should be attached to the body element on that page. To accomplish this, the [router](https://github.com/bowfolios/bowfolios/blob/master/app/imports/startup/client/router.js) uses "triggers" to add an remove the appropriate classes from the body element when a page is visited and then left by the user. 
 
-## Routing
+### Routing
 
 For display and navigation among its four pages, the application uses [Flow Router](https://github.com/kadirahq/flow-router).
 
@@ -254,7 +254,7 @@ BowFolios defines the following routes:
   * The `/<user>/filter` route goes to the filter page associated with `<user>`, which is the UH account name.
 
 
-## Authentication
+### Authentication
 
 For authentication, the application uses the University of Hawaii CAS test server, and follows the approach shown in [meteor-example-uh-cas](http://ics-software-engineering.github.io/meteor-example-uh-cas/).
 
@@ -262,7 +262,7 @@ When the application is run, the CAS configuration information must be present i
 
 Anyone with a UH account can login and use BowFolio to create a portfolio.  A profile document is created for them if none already exists for that username.
 
-## Authorization
+### Authorization
 
 The landing and directory pages are public; anyone can access those pages.
 
@@ -272,7 +272,7 @@ To prevent people from accessing pages they are not authorized to visit, templat
 
 The application implements template-based authorization using an If_Authorized template, defined in [If_Authorized.html](https://github.com/bowfolios/bowfolios/blob/master/app/imports/ui/layouts/user/if-authorized.html) and [If_Authorized.js](https://github.com/bowfolios/bowfolios/blob/master/app/imports/ui/layouts/user/if-authorized.js).
 
-## Configuration
+### Configuration
 
 The [config](https://github.com/bowfolios/bowfolios/tree/master/config) directory is intended to hold settings files.  The repository contains one file: [config/settings.development.json](https://github.com/bowfolios/bowfolios/blob/master/config/settings.development.json).
 
@@ -280,9 +280,9 @@ The [.gitignore](https://github.com/bowfolios/bowfolios/blob/master/.gitignore) 
 
 BowFolios checks on startup to see if it has an empty database in [initialize-database.js](https://github.com/bowfolios/bowfolios/blob/master/app/imports/startup/server/initialize-database.js), and if so, loads the file specified in the configuration file, such as [settings.development.json](https://github.com/bowfolios/bowfolios/blob/master/config/settings.development.json).  For development purposes, a sample initialization for this database is in [initial-collection-data.json](https://github.com/bowfolios/bowfolios/blob/master/app/private/database/initial-collection-data.json).
 
-## Quality Assurance
+### Quality Assurance
 
-### ESLint
+#### ESLint
 
 BowFolios includes a [.eslintrc](https://github.com/bowfolios/bowfolios/blob/master/app/.eslintrc) file to define the coding style adhered to in this application. You can invoke ESLint from the command line as follows:
 
@@ -294,7 +294,7 @@ ESLint should run without generating any errors.
 
 It's significantly easier to do development with ESLint integrated directly into your IDE (such as IntelliJ).
 
-### Data model unit tests
+#### Data model unit tests
 
 To run the unit tests on the data model, invoke the script named 'test', which is defined in the package.json file:
 
@@ -345,7 +345,7 @@ Load the app in a browser to run client tests, or set the TEST_BROWSER_DRIVER en
 ```
 
 
-### JSDoc
+#### JSDoc
 
 BowFolios supports documentation generation with [JSDoc](http://usejsdoc.org/). The package.json file defines a script called jsdoc that runs JSDoc over the source files and outputs html to the ../../bowfolio.github.io/jsdoc directory.  When committed, the index.html file providing an overview of all the documentation generate at that point in time is available at [http://bowfolios.github.io/jsdocs](https://bowfolios.github.io/jsdocs/). 
 

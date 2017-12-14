@@ -222,15 +222,15 @@ This system adopts the following naming conventions:
 
 ### Data model
 
-The BowFolios data model is implemented by two Javascript classes: [ProfileCollection](https://github.com/bowfolios/bowfolios/blob/master/app/imports/api/profile/ProfileCollection.js) and [InterestCollection](https://github.com/bowfolios/bowfolios/blob/master/app/imports/api/interest/InterestCollection.js). Both of these classes encapsulate a MongoDB collection with the same name and export a single variable (Profiles and Interests)that provides access to that collection. 
+The Manoa Grindz data model is implemented by two Javascript classes: [ProfileCollection](https://github.com/manoa-grindz/manoa-grindz/blob/master/app/imports/api/profile/ProfileCollection.js) and [InterestCollection](https://github.com/manoa-grindz/manoa-grindz/blob/master/app/imports/api/interest/InterestCollection.js). Both of these classes encapsulate a MongoDB collection with the same name and export a single variable (Profiles and Interests)that provides access to that collection. 
 
-Any part of the system that manipulates the BowFolios data model imports the Profiles or Interests variable, and invokes methods of that class to get or set data.
+Any part of the system that manipulates the Manoa Grindz data model imports the Profiles or Interests variable, and invokes methods of that class to get or set data.
 
-There are many common operations on MongoDB collections. To simplify the implementation, the ProfileCollection and InterestCollection classes inherit from the [BaseCollection](https://github.com/bowfolios/bowfolios/blob/master/app/imports/api/base/BaseCollection.js) class.
+There are many common operations on MongoDB collections. To simplify the implementation, the ProfileCollection and InterestCollection classes inherit from the [BaseCollection](https://github.com/manoa-grindz/manoa-grindz/blob/master/app/imports/api/base/BaseCollection.js) class.
 
-The [BaseUtilities](https://github.com/bowfolios/bowfolios/blob/master/app/imports/api/base/BaseUtilities.js) file contains functions that operate across both classes. 
+The [BaseUtilities](https://github.com/manoa-grindz/manoa-grindz/blob/master/app/imports/api/base/BaseUtilities.js) file contains functions that operate across both classes. 
 
-Both ProfileCollection and InterestCollection have Mocha unit tests in [ProfileCollection.test.js](https://github.com/bowfolios/bowfolios/blob/master/app/imports/api/profile/ProfileCollection.test.js) and [InterestCollection.test.js](https://github.com/bowfolios/bowfolios/blob/master/app/imports/api/interest/InterestCollection.test.js). See the section below on testing for more details.
+Both ProfileCollection and InterestCollection have Mocha unit tests in [ProfileCollection.test.js](https://github.com/manoa-grindz/manoa-grindz/blob/master/app/imports/api/profile/ProfileCollection.test.js) and [InterestCollection.test.js](https://github.com/manoa-grindz/manoa-grindz/blob/master/app/imports/api/interest/InterestCollection.test.js). See the section below on testing for more details.
 
 ### CSS
 

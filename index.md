@@ -74,21 +74,20 @@ Manoa Grindz also offers a way for you to submit restaurants that you want to se
 Part way through the development of our application, we requested the help of five members of the community to test out the Meteor Grindz website and offer their thoughts and opinions on the current development and direction of our Meteor application. We received feedback from Rachel, Joseph, Marie, Elise, and Charles. Their feedback was compiled and placed into a pro's and con's list:
 
 ### Pro's
--Easy to understand layout. Not too complicated
--Professional looking
--Great idea for an app. People would definitely use it. 
--Color scheme is nice
+- Easy to understand layout. Not too complicated
+- Professional looking
+- Great idea for an app. People would definitely use it. 
+- Color scheme is nice
 
 <br />
 ### Con's
--Not enough restaurant selection
+Not enough restaurant selection
 -Landing page is ugly
--
 
 
 
 
-###Con's
+
 
 
 

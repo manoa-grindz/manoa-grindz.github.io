@@ -103,14 +103,11 @@ Part way through the development of our application, we requested the help of fi
 - Not enough food selections. 
 
 
-
-
-
-
-
 # Developer Guide
+<br />
+The following developer guide will guide a user through the process of downloading, installing, running, and modifying the system.
 
-
+<br />
 # Installation
 
 First, [install Meteor](https://www.meteor.com/install).

@@ -19,7 +19,7 @@
     * [Quality Assurance](#quality-assurance)
       * [ESLint](#eslint)
       * [Data model unit tests](#data-model-unit-tests)
-      * [JSDocs](#JSDocs)
+      * [JSDoc](#JSDoc)
 
 # About Manoa Grindz
 
@@ -345,7 +345,7 @@ Load the app in a browser to run client tests, or set the TEST_BROWSER_DRIVER en
 ```
 
 
-#### JSDocs
+#### JSDoc
 
 Manoa Grindz supports documentation generation with [JSDoc](http://usejsdoc.org/). The package.json file defines a script called jsdoc that runs JSDoc over the source files and outputs html to the ../../manoa-grindz.github.io/jsdoc directory.  When committed, the index.html file providing an overview of all the documentation generate at that point in time is available at [http://manoa-grindz.github.io/jsdocs](https://manoa-grindz.github.io/jsdocs/). 
 

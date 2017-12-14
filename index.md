@@ -46,43 +46,43 @@ When completed, the Manoa Grindz app will eventually provide menus of all food l
 When you first come to the Manoa Grindz website, you will be greeted by the following landing page: 
 <br />
 
-![](images/landing.png)
+![](images/landing2.png)
 <br />
 <br />
 The landing page will provide you with a general introduction on what Manoa Grindz is all about. Anyone with a UH account can login to Manoa Grindz by clicking on the login button. The UH CAS authentication screen then appears and requests your UH account and password:
 
-![](images/login.png)
+![](images/login2.png)
 <br />
 <br />
 Once authenticated, you will be taken to the Browse page, where you can search through a list of supported UH Manoa food locations and filter out locations based on your food preferences. You can also click on the the different food locations to view more information about that particular place or learn more about the food selections they offer:
 <br />
 <br />
  
-![](images/browse.png)
+![](images/browse2.png)
 <br />
 <br />
 Manoa Grindz allows you to create your own profile once you are logged in with your UH account. By clicking the icon to the left of the logout button, you can create a profile by entering your name and selecting your different food preferences from the drop-down menu. You can also add a picture to your profile or even write a short bio about yourself:  
 <br />
 <br />
-![](images/login.png)
+![](images/user.png)
 <br />
 <br />
 Manoa Grindz also provides a Today's Picks page, where you can view a selection of the top current food choices for the day: 
 <br />
 <br />
-![](images/events.png)
+![](images/todayspicks2.png)
 <br />
 <br />
 If you visit the Events page using the navigation bar on the top of your screen, you will be able to view a list of current and upcoming UH Manao food events. You can search through the list and click on the different food events to learn more about it:
 <br />
 <br />
-![](images/events.png)
+![](images/events2.png)
 <br />
 <br />
 Manoa Grindz also offers a way for you to submit restaurants that you want to see on the site. By going to the Add Restaurant page, you can fill out a form that includes information about your food location on campus. Your submitted form will then be reviewed and submitted to our database of restaurants:
 <br />
 <br />
-![](images/events.png)
+![](images/addRestaurant.png)
 
 
 # Community Feedback
